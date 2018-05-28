@@ -1,0 +1,8 @@
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\bin\Debug\MSTests.Sample.DomainTests.dll
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\bin\Debug\MSTests.Sample.DomainTests.pdb
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\bin\Debug\MSTests.Sample.Domain.dll
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\bin\Debug\MSTests.Sample.Domain.pdb
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\obj\Debug\MSTests.Sample.DomainTests.csprojResolveAssemblyReference.cache
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\obj\Debug\MSTests.Sample.DomainTests.dll
+c:\users\1007936\documents\visual studio 2015\Projects\MSTests.Sample\MSTests.Sample.DomainTests\obj\Debug\MSTests.Sample.DomainTests.pdb
